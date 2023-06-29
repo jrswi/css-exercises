@@ -1,0 +1,16 @@
+.odds {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.size {
+    font-size: 24px;
+}
+#idone {
+    color: blue;
+    font-size: 36px;
+}
+#idtwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
